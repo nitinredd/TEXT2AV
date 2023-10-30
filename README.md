@@ -22,6 +22,18 @@ The main objectives of the project are as follows:
 - Utilize diffusion models and GANs to generate high-quality videos from text inputs.
 - Provide a cost-effective solution for generating high-resolution videos.
 
+## Research Paper
+
+A research paper titled "TEXT2AV – Automated Text to Audio and Video Conversion" was published describing the details and results of this project. Here are the key details about the paper:
+
+- Published in E3S Web Conf., Volume 430, 2023
+- Presented at the 15th International Conference on Materials Processing and Characterization (ICMPC 2023)
+- Article Number: 01027
+- DOI: https://doi.org/10.1051/e3sconf/202343001027
+- Published online: 06 October 2023
+
+The paper provides comprehensive information on the methodology, datasets used, and results obtained from the TEXT2AV system.
+
 ## Software and Hardware Requirements
 
 Software Requirements:
